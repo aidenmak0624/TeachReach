@@ -2,6 +2,10 @@
 A platform to connect students easily with tutors!
 
 ## Presentation Website
+## Screenshots
+
+**Web Interface**
+![TeachReach Web Interface](docs/web_image.jpg)
 
 A live website presenting our project is available to view at this [link](https://teachreachdev.wixsite.com/home).
 
