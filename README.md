@@ -2,8 +2,6 @@
 A platform to connect students easily with tutors!
 
 ## Presentation Website
-## Screenshots
-
 **Web Interface**
 ![TeachReach Web Interface](docs/web_image.jpg)
 
@@ -57,4 +55,5 @@ TeachReach is an Android app that connects students seeking academic help with q
 
 ## Work Flow
 - [Our work flow](https://code.cs.umanitoba.ca/comp3350-winter2024/git-gud-a02-2/-/blob/main/docs/Contributing.md)
+
 
