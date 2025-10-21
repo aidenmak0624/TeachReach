@@ -55,6 +55,12 @@ dependencies {
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
     testImplementation("org.mockito:mockito-inline:5.2.0")
     testImplementation("org.mockito:mockito-junit-jupiter:5.11.0")
+    implementation("androidx.recyclerview:recyclerview:1.1.0")
+    // For control over item selection of both touch and mouse driven selection
+    androidTestImplementation("androidx.test.espresso:espresso-contrib:3.5.1")
+    androidTestImplementation ("androidx.test.espresso:espresso-core:3.5.1")
+    androidTestImplementation ("androidx.test.espresso:espresso-contrib:3.5.1")
+
 }
 
 tasks.register("clearData", org.gradle.api.tasks.Exec::class) {
